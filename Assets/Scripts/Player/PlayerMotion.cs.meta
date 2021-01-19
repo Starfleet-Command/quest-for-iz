@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f23d3cbe28c7d94bbfea4103d06b0d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buff: {fileID: 248940384748707492, guid: ec3ad4ae9f9b16a4e9252215bbf78e5d, type: 3}
+  - rb: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - icicle: {fileID: 8826421396095930511, guid: e37b47aa268c01843bf477b4d62caa87,
+      type: 3}
+  - fireball: {fileID: 4242082620595862307, guid: d9f79f123317e1b4e88235410015cd00,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

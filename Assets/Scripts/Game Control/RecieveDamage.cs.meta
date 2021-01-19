@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c846b94c9e0a76744bb909e59e93368c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - IcicleExplosion: {fileID: 6930007401958542382, guid: 84645fb95762f444495b41b1820a3525,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

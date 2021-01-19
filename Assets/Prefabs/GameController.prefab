@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2379486223139713808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2379486223139713822}
+  - component: {fileID: 2379486223139713809}
+  - component: {fileID: 2379486223139713823}
+  - component: {fileID: -943602344521362411}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2379486223139713822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379486223139713808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.09, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2379486223139713809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379486223139713808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60dc785a949a4c14d8ecdf3d9b8621bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemy1: {fileID: 5682662736679942584, guid: 26f42d5db5b415841b9c6a608fefe26b, type: 3}
+  enemy2: {fileID: 1744557266828890314, guid: d0fa2e48cbeadd54aab9211e6d8d4c3c, type: 3}
+  enemy3: {fileID: 8697491611389827873, guid: 317b90e263a2dc04f8f9fdb1c661609f, type: 3}
+  limits: {x: 5, y: 0.2, z: 5, w: 5}
+--- !u!114 &2379486223139713823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379486223139713808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab0743fd7d66ca6429f15e53ea8d9f3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item1: {fileID: 5265712135113446294, guid: 461291278dc5aa8428a96d31a67200ed, type: 3}
+  item2: {fileID: 6897207489409381431, guid: 1cf95926bb2abea4bb0c7ebff4d7e90e, type: 3}
+  item3: {fileID: 2966078187570012309, guid: 369a6b63e0e24d6489d7a967502dfc24, type: 3}
+  item4: {fileID: 2714443692717225950, guid: 7bee9149c30aa394dada4ebec90205a2, type: 3}
+  item5: {fileID: 1174810664211898796, guid: d454deecfe1553741b255141777a16ae, type: 3}
+--- !u!114 &-943602344521362411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379486223139713808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0304b6d21145b2498a37dbc55cf7e47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSpawn: {fileID: 0}
+  warrior: {fileID: 4574630452982799920, guid: 646c478d21a64ec4a98ee7c686c8a0bc, type: 3}
+  mage: {fileID: 4463495112129364511, guid: dd37b98e405dd184591eef1e81747c99, type: 3}
+  gunslinger: {fileID: 7796359456443939506, guid: ffa25f961a39c204d805dbb5fac51cf4,
+    type: 3}

@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 7d00b2efb8efee84fbd934312995baec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4053767233535373308
+    second: KL12
+  - first:
+      213: -4691676335715162137
+    second: KL11
+  - first:
+      213: 2792187216530675356
+    second: KL10
+  - first:
+      213: 2988484100691077241
+    second: KL9
+  - first:
+      213: 1895953875184203967
+    second: KL8
+  - first:
+      213: -7253842293798480337
+    second: KL7
+  - first:
+      213: -3199693214558139505
+    second: KL6
+  - first:
+      213: -4201902048642442723
+    second: KL5
+  - first:
+      213: 7283108364349862611
+    second: KL4
+  - first:
+      213: -3883118834445743745
+    second: KL3
+  - first:
+      213: 5752274606090026284
+    second: KL2
+  - first:
+      213: -4291264244804824631
+    second: KL1
+  - first:
+      213: 8041504760715453454
+    second: KR1
+  - first:
+      213: 4788065401518605065
+    second: KR2
+  - first:
+      213: -5582448313059253461
+    second: KR3
+  - first:
+      213: 470910060647659473
+    second: KR4
+  - first:
+      213: -8851657652788694142
+    second: KR5
+  - first:
+      213: 8679862291792456881
+    second: KR6
+  - first:
+      213: -2371801783386446746
+    second: KR7
+  - first:
+      213: -3272739077436049321
+    second: KR8
+  - first:
+      213: 7608498584592140724
+    second: KR9
+  - first:
+      213: -1134239528112154711
+    second: KR10
+  - first:
+      213: 1832180484030849645
+    second: KR11
+  - first:
+      213: 8169544380139250567
+    second: KR12
+  - first:
+      213: 4717689149831812064
+    second: KSR1
+  - first:
+      213: 1590952298438799703
+    second: KSR2
+  - first:
+      213: 1805621036477087421
+    second: KSR3
+  - first:
+      213: -6300626912048173218
+    second: KSR4
+  - first:
+      213: -4114700649534327295
+    second: KSL4
+  - first:
+      213: -6301643210198456977
+    second: KSL3
+  - first:
+      213: 4046300836020109093
+    second: KSL2
+  - first:
+      213: -4253642341404496297
+    second: KSL1
+  - first:
+      213: -2632276392329079388
+    second: KDeath
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KL12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16942ba7a82e0c0439af88771a9e9db3
+      internalID: 4053767233535373308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf374a43fd93a5408748fe1dfb228aa
+      internalID: -4691676335715162137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 166
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7dbab24f32fa34baceb3ab90ec0b19
+      internalID: 2792187216530675356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 166
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c07db29ee8d64aabc4541f6c564b3
+      internalID: 2988484100691077241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 166
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d047105f53217843bdfb370a297deaa
+      internalID: 1895953875184203967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 166
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821201f70dfcc754896aed31bdfcf16b
+      internalID: -7253842293798480337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 166
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4769eb82d3d02bc43b91c428acf53ba1
+      internalID: -3199693214558139505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 166
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf9be5f54b0164abdeb378f43844c4
+      internalID: -4201902048642442723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 166
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783b5cdb869b484d96d0bc9e06ef974
+      internalID: 7283108364349862611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 166
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006214808e2708547a95d07496e58519
+      internalID: -3883118834445743745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 166
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46629cb46348af94e91e5b30df3266a8
+      internalID: 5752274606090026284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KL1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 166
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c37add63e49340b5f9916b11f2c5c
+      internalID: -4291264244804824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c6db01ca950148bdea0017134a72b
+      internalID: 8041504760715453454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc567c1f4911c440b594e0a26146e6d
+      internalID: 4788065401518605065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 126
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc74fa813b6e3a41aa09f58692b939e
+      internalID: -5582448313059253461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 126
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9889ed604e63b674eb7645ecb9c50ae0
+      internalID: 470910060647659473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facbc89b5f8fb2409d0aa04f80e4dd9
+      internalID: -8851657652788694142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 126
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb4521f38f7d945896cd8ec809ee75
+      internalID: 8679862291792456881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 126
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d8584bd34efc43a2f3e5b2f5dc0ac
+      internalID: -2371801783386446746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 126
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265cc91068d38324a8468c934961d36c
+      internalID: -3272739077436049321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 126
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f397e026d7e60408497f7ad402ccee
+      internalID: 7608498584592140724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 126
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d946629b2bd0754b93c4ff876bb7e24
+      internalID: -1134239528112154711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 126
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8535875fd826148918fb87d205ece7
+      internalID: 1832180484030849645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KR12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 126
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1c6d32174ded46ac6fa4eacd8942c
+      internalID: 8169544380139250567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSR1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0939af60219b44aa22073065d82ad
+      internalID: 4717689149831812064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSR2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 100
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf7fd004867ed4eb086e1f2f9bc244
+      internalID: 1590952298438799703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSR3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283c99e41cbc6943a6c267d99f33848
+      internalID: 1805621036477087421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSR4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64fb4ea7488b64f97a2c499cd2c5b7
+      internalID: -6300626912048173218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSL4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd6c1b12f089a6469501dbaa3e5999b
+      internalID: -4114700649534327295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSL3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f628173b46ea4de478e3eb202f1e51b7
+      internalID: -6301643210198456977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSL2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 73
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde7e06e645adc4990d5986b3300c4e
+      internalID: 4046300836020109093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KSL1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2828efcdfd224b92fabb07f6d8b59
+      internalID: -4253642341404496297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KDeath
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 81
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8acbcab255cf428d7939f060eac65
+      internalID: -2632276392329079388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 60de7c96d3a590f4ea35a5c67e65d6e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

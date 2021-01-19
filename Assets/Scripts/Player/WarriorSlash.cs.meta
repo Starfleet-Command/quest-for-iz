@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa5cdda77930aac4ca75850b4bdba847
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buff: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - walk: {fileID: 8300000, guid: 718f45f62dbb10b4c901f837c52271b4, type: 3}
+  - sword: {fileID: 4426446599794719329, guid: 36e2a1651bb9216438eee6dd1fd34f52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4a15b33a6e2a2d34380e043d84df4855
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathScreen: {fileID: 3480275951769155493, guid: 6f3665d559c28894f84187fe446282f1,
+      type: 3}
+  - playerSounds: {instanceID: 0}
+  - onHit: {fileID: 8300000, guid: 03cc3f38b527d4f438c7eb799a0991c4, type: 3}
+  - onDeath: {fileID: 8300000, guid: a9018e3876dfc0e4985ce4b44e952236, type: 3}
+  - fullHeart: {instanceID: 0}
+  - emptyHeart: {instanceID: 0}
+  - RecievedDamageMat: {fileID: 2100000, guid: 85b6526ab7b27fa409e5dd1bf88a632c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

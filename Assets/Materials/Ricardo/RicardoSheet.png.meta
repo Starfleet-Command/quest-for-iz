@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 255941010c4db3c49b129e0df85c6f4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4957681586028724134
+    second: RicardoSheet_0
+  - first:
+      213: -3163844877417042254
+    second: RicardoSheet_1
+  - first:
+      213: 7705366580358983485
+    second: RicardoSheet_2
+  - first:
+      213: 3073884665802102201
+    second: RicardoSheet_3
+  - first:
+      213: -9200260781392487200
+    second: RicardoSheet_4
+  - first:
+      213: -4857743736238403593
+    second: RicardoSheet_5
+  - first:
+      213: -9059835536294130593
+    second: RicardoSheet_6
+  - first:
+      213: 5151281069470548856
+    second: RicardoSheet_7
+  - first:
+      213: -2820286856002215489
+    second: RicardoSheet_8
+  - first:
+      213: 955514577599350858
+    second: RicardoSheet_9
+  - first:
+      213: -2740992280065871318
+    second: RicardoSheet_10
+  - first:
+      213: 4888264133280505340
+    second: RicardoSheet_11
+  - first:
+      213: 5100191822515786579
+    second: RicardoSheet_12
+  - first:
+      213: -610936787224312268
+    second: RicardoSheet_13
+  - first:
+      213: 1234401200118056809
+    second: RicardoSheet_14
+  - first:
+      213: 2946446695665415718
+    second: RicardoSheet_15
+  - first:
+      213: 6980813965439954944
+    second: RicardoSheet_16
+  - first:
+      213: -1686938850117429151
+    second: RicardoSheet_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RicardoSheet_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 606
+        width: 180
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b84ad7040b1e43b086682e5f08f22
+      internalID: 4957681586028724134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 606
+        width: 171
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7cdda69ec31bf45a6dc08bcba82e2d
+      internalID: -3163844877417042254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 606
+        width: 196
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c203b3ec61d944289705ab072ff0d8
+      internalID: 7705366580358983485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 606
+        width: 216
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406c5a986187cd0439e9ef0220b8bb22
+      internalID: 3073884665802102201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 606
+        width: 226
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b36d06945149e4994e98add6d03571
+      internalID: -9200260781392487200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 404
+        width: 244
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae8f530a8247f64691a4d57c95279c4
+      internalID: -4857743736238403593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 404
+        width: 262
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea11e515c4e4f7499efd5d457b6ef2b
+      internalID: -9059835536294130593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 404
+        width: 262
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c72307d6b3ec743a2552217c554e59
+      internalID: 5151281069470548856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 405
+        width: 264
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d80237371c90c4a909231799bf3fd9
+      internalID: -2820286856002215489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 403
+        width: 262
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f79940e2e86249ade9051bf4e1e9e
+      internalID: 955514577599350858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 263
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e1ad432480174f984ce930b6c2f5b
+      internalID: -2740992280065871318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 202
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ca92f0463a5948bef82cad0b858d6
+      internalID: 4888264133280505340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 203
+        width: 264
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba473da7db5fa3840bacbb5bd7b00d02
+      internalID: 5100191822515786579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 204
+        width: 265
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566fcdf3bbbda2e4bb56d94c7ce578ab
+      internalID: -610936787224312268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 203
+        width: 263
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ada6fb64f55e1449dbfbd5bb5e19f6
+      internalID: 1234401200118056809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 263
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9cc0503118a544b851210a406db73f
+      internalID: 2946446695665415718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 262
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbcc215f0041443984fb2e771ea949
+      internalID: 6980813965439954944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RicardoSheet_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1
+        width: 244
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc062f43bbe4d4ebde6d041a4056c6
+      internalID: -1686938850117429151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34e61978b2f606a468416a810f32e19d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 36b4c3758782d6e4793f2c5e0332529a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3515491262909369879
+    second: SnoopSprite_0
+  - first:
+      213: 5545817868999970929
+    second: SnoopSprite_1
+  - first:
+      213: 964689522303236694
+    second: SnoopSprite_2
+  - first:
+      213: 120654630325016297
+    second: SnoopSprite_3
+  - first:
+      213: -3048267206388200369
+    second: SnoopSprite_4
+  - first:
+      213: -40486407172582285
+    second: SnoopSprite_5
+  - first:
+      213: -4391166159853639925
+    second: SnoopSprite_6
+  - first:
+      213: -7540229502834766044
+    second: SnoopSprite_7
+  - first:
+      213: -3845510618262570290
+    second: SnoopSprite_8
+  - first:
+      213: -3299070054796611480
+    second: SnoopSprite_9
+  - first:
+      213: 7379843113549207745
+    second: SnoopSprite_10
+  - first:
+      213: 2105622546504894220
+    second: SnoopSprite_11
+  - first:
+      213: 3452115565504067765
+    second: SnoopSprite_12
+  - first:
+      213: -159744214031662543
+    second: SnoopSprite_13
+  - first:
+      213: 7111552745863131772
+    second: SnoopSprite_14
+  - first:
+      213: -1031128217183415896
+    second: SnoopSprite_15
+  - first:
+      213: -4126692935625480077
+    second: SnoopSprite_16
+  - first:
+      213: -2054535664398636065
+    second: SnoopSprite_17
+  - first:
+      213: -6974394559968877602
+    second: SnoopSprite_18
+  - first:
+      213: -4644198988786841743
+    second: SnoopSprite_19
+  - first:
+      213: -720473668403507250
+    second: SnoopSprite_20
+  - first:
+      213: -7194986417800660129
+    second: SnoopSprite_21
+  - first:
+      213: 3712081219152034709
+    second: SnoopSprite_22
+  - first:
+      213: 1157897297911983798
+    second: SnoopSprite_23
+  - first:
+      213: -1064823329065649931
+    second: SnoopSprite_24
+  - first:
+      213: -7726704195459573752
+    second: SnoopSprite_25
+  - first:
+      213: 2430826812793177731
+    second: SnoopSprite_26
+  - first:
+      213: 5306330961590566528
+    second: SnoopSprite_27
+  - first:
+      213: -5706976826803111786
+    second: SnoopSprite_28
+  - first:
+      213: 545224681472029562
+    second: SnoopSprite_29
+  - first:
+      213: -3694811338268607910
+    second: SnoopSprite_30
+  - first:
+      213: 9041504470393559535
+    second: SnoopSprite_31
+  - first:
+      213: -5017221476122796783
+    second: SnoopSprite_32
+  - first:
+      213: -4831865414050951778
+    second: SnoopSprite_33
+  - first:
+      213: -2421803748506902069
+    second: SnoopSprite_34
+  - first:
+      213: 2438373607546562609
+    second: SnoopSprite_35
+  - first:
+      213: 3236197513102874644
+    second: SnoopSprite_36
+  - first:
+      213: -4099809267875282958
+    second: SnoopSprite_37
+  - first:
+      213: -8350364659023688841
+    second: SnoopSprite_38
+  - first:
+      213: 7711877214350583282
+    second: SnoopSprite_39
+  - first:
+      213: -8191727460853210651
+    second: SnoopSprite_40
+  - first:
+      213: 6244209267962156977
+    second: SnoopSprite_41
+  - first:
+      213: -3698187338385376139
+    second: SnoopSprite_42
+  - first:
+      213: -1995660881059763832
+    second: SnoopSprite_43
+  - first:
+      213: 1292868939425201066
+    second: SnoopSprite_44
+  - first:
+      213: 822651453256618075
+    second: SnoopSprite_45
+  - first:
+      213: 4013720625438728189
+    second: SnoopSprite_46
+  - first:
+      213: 6515996570646394837
+    second: SnoopSprite_47
+  - first:
+      213: -2229302786824130177
+    second: SnoopSprite_48
+  - first:
+      213: 5917259805175685673
+    second: SnoopSprite_49
+  - first:
+      213: -8866942210820571193
+    second: SnoopSprite_50
+  - first:
+      213: 2320815155815237777
+    second: SnoopSprite_51
+  - first:
+      213: -419422890504766651
+    second: SnoopSprite_52
+  - first:
+      213: -421843862536290440
+    second: SnoopSprite_53
+  - first:
+      213: 991489290740800125
+    second: SnoopSprite_54
+  - first:
+      213: -3365931795494206370
+    second: SnoopSprite_55
+  - first:
+      213: -1852874117654377493
+    second: SnoopSprite_56
+  - first:
+      213: 8930217839946004091
+    second: SnoopSprite_57
+  - first:
+      213: -8680958220117547488
+    second: SnoopSprite_58
+  - first:
+      213: -2761226939854962964
+    second: SnoopSprite_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnoopSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31699b77b91d39d4e88a16298dbe6074
+      internalID: 3515491262909369879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5274
+        width: 234
+        height: 480
+      alignment: 9
+      pivot: {x: 0.52663183, y: 0.5649129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe7f75fa5810241a53377c9f0dd9a2
+      internalID: 5545817868999970929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5280
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4e3c6fd43bb547ab6b3c6c768b665
+      internalID: 964689522303236694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 5280
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429de82c94f3ae8439241a607155111c
+      internalID: 120654630325016297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 5280
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee426e8c145a9478cd3efb478caf22
+      internalID: -3048267206388200369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213899a5fdb1c547a068a3e3d111725
+      internalID: -40486407172582285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4798
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2968e94a6749499b7df083f856cb8
+      internalID: -4391166159853639925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4800
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59ca1243e8aa014e93875e30086cdbd
+      internalID: -7540229502834766044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4800
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b280ca9c6124c6498c2dbe590dbe358
+      internalID: -3845510618262570290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4800
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf3447e3b9528448539929361c9d57
+      internalID: -3299070054796611480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e6313df304ad4c83d84abab0e648e
+      internalID: 7379843113549207745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4320
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ffc491c6560046a835c8a2027c9e6
+      internalID: 2105622546504894220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4320
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3366b520a2c2b4e97268247efd6eb3
+      internalID: 3452115565504067765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4320
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44959789a2caa4940ab5c31b7972a860
+      internalID: -159744214031662543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4320
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7913ff649357a3e4ebba87d7eea889c7
+      internalID: 7111552745863131772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9920158b471dc49b12aef6397d41c0
+      internalID: -1031128217183415896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3840
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe10d71b2551654995185bec68bff01
+      internalID: -4126692935625480077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3840
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1e2d467418b240b2c72b6d6011f55
+      internalID: -2054535664398636065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3840
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c68c2a4d16ae4aacf4ec0ee8037fa
+      internalID: -6974394559968877602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_19
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3840
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de2d8b43fac1614fb1d16d234a7021d
+      internalID: -4644198988786841743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c25562fbdd29479e7683ae20779b3
+      internalID: -720473668403507250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3360
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1acadad972a9439fbdae9d28b6d86
+      internalID: -7194986417800660129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3360
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ddf465864084748927743b045026fa
+      internalID: 3712081219152034709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_23
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3360
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef893352b74eb64cb69bc6ef7d7fa3f
+      internalID: 1157897297911983798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3360
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43452dfa545cc544ada9fffa12509e9
+      internalID: -1064823329065649931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e92cd516314234fa08da1e7491184c
+      internalID: -7726704195459573752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2880
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160752fa62dc484489cbc0530897ab72
+      internalID: 2430826812793177731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2880
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767db3259e99e2944b68763f8b161a01
+      internalID: 5306330961590566528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_28
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2880
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9a4628c37b494b978f5c69833f257
+      internalID: -5706976826803111786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2880
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42144c6e55301664bb65b88cb2480fcb
+      internalID: 545224681472029562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de0adc60504474ea7c7388a3309185
+      internalID: -3694811338268607910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2400
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ed5f062520034787baa340cf2e407
+      internalID: 9041504470393559535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2400
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6734efa395dd3943980ef36118d0153
+      internalID: -5017221476122796783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2400
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c305510a543ea4181514be684851ed
+      internalID: -4831865414050951778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2400
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f15e4205ee6794592888f74f628f23
+      internalID: -2421803748506902069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55dc7a9c7859b14ea6ff117e7e15264
+      internalID: 2438373607546562609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1920
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b2e35a9b305a4ab2bc984e77f6f45
+      internalID: 3236197513102874644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1920
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9316c5aadd12d47859c1f64575e3c6
+      internalID: -4099809267875282958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_38
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1920
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23a8efa9ba43a45bd87b00719ea2bc
+      internalID: -8350364659023688841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1920
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693588d2ea858c34e98d312a7604975e
+      internalID: 7711877214350583282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829bfe2d55eb9d04dab7e78e8b02ecbf
+      internalID: -8191727460853210651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1440
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45a212747a7e14993a1e5755d36a3c
+      internalID: 6244209267962156977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1440
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c34bc56b130bf4eb8af1ee21d84782
+      internalID: -3698187338385376139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1440
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f54b434fa356ee4388760959690c809
+      internalID: -1995660881059763832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_44
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1440
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975466499e90f8f4484416f4a20a2a34
+      internalID: 1292868939425201066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76291dd8f681f3d409acbae6487380e0
+      internalID: 822651453256618075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 960
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7aea101d787849bd4c438fe7ce548
+      internalID: 4013720625438728189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 960
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9cc3e4559a7a468e9c09d90df812d
+      internalID: 6515996570646394837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_48
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 960
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf186e2e35bd10542a8207a8551ea903
+      internalID: -2229302786824130177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 960
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92adaccb8fa4424d87c8bfaa1f8133f
+      internalID: 5917259805175685673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6cf83282d0a3b4690a1b9dabfb2d87
+      internalID: -8866942210820571193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 480
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a02976001ef2ea4599debe2e3b611cf
+      internalID: 2320815155815237777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 480
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab4eb0499c2ba46b1e82a57b21808b
+      internalID: -419422890504766651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_53
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 480
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2459e382ca5e4b89aec61490836ae
+      internalID: -421843862536290440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_54
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 480
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac039a466350da419c2e284b7b1482f
+      internalID: 991489290740800125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315b245169f58541b8386cad172e495
+      internalID: -3365931795494206370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc156d88d94c5478723e25c0f374c9
+      internalID: -1852874117654377493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9398e56e1c07f43a2825286ec3d670
+      internalID: 8930217839946004091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc06e7e4fa0a444a24cb0486d757bb
+      internalID: -8680958220117547488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnoopSprite_59
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b942e636a1425b4a8e2435fb122be5b
+      internalID: -2761226939854962964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e80ea81289ae27d4484e1cc4668914fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

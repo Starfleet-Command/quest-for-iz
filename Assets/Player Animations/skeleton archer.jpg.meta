@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: da454caab9e4f284f9db150b31a5cf6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2529344528012073629
+    second: skeleton archer_0
+  - first:
+      213: 7927566408201165972
+    second: skeleton archer_1
+  - first:
+      213: -7485784725927380735
+    second: skeleton archer_2
+  - first:
+      213: -3510301689832958075
+    second: skeleton archer_3
+  - first:
+      213: 6442240369463676372
+    second: skeleton archer_4
+  - first:
+      213: 2958503459832166389
+    second: skeleton archer_5
+  - first:
+      213: 5584679154801373820
+    second: skeleton archer_6
+  - first:
+      213: -4243757476177620678
+    second: skeleton archer_7
+  - first:
+      213: 593659044394389988
+    second: skeleton archer_8
+  - first:
+      213: 4777311595510707281
+    second: skeleton archer_9
+  - first:
+      213: 1606205611440371205
+    second: skeleton archer_10
+  - first:
+      213: -1658304590841535142
+    second: skeleton archer_11
+  - first:
+      213: 1924288779565654562
+    second: skeleton archer_12
+  - first:
+      213: 8136616155963511843
+    second: skeleton archer_13
+  - first:
+      213: 7278993344293173625
+    second: skeleton archer_14
+  - first:
+      213: -7111157805330440490
+    second: skeleton archer_15
+  - first:
+      213: 3500180763207232362
+    second: skeleton archer_16
+  - first:
+      213: -4082662101747797446
+    second: skeleton archer_17
+  - first:
+      213: 7101140386141068592
+    second: skeleton archer_18
+  - first:
+      213: -1237166121447576544
+    second: skeleton archer_19
+  - first:
+      213: 2221269771785786843
+    second: skeleton archer_20
+  - first:
+      213: -4733136270795443630
+    second: skeleton archer_21
+  - first:
+      213: 3503368485497965428
+    second: skeleton archer_22
+  - first:
+      213: 690896055633636038
+    second: skeleton archer_23
+  - first:
+      213: 8856958226898168651
+    second: skeleton archer_24
+  - first:
+      213: 4473044897736878118
+    second: skeleton archer_25
+  - first:
+      213: -3915158113461991517
+    second: skeleton archer_26
+  - first:
+      213: -5641640833975292161
+    second: skeleton archer_27
+  - first:
+      213: -7296393565306986012
+    second: skeleton archer_28
+  - first:
+      213: 7079702056950867538
+    second: skeleton archer_29
+  - first:
+      213: -3603816548501881288
+    second: skeleton archer_30
+  - first:
+      213: -9104723030461605064
+    second: skeleton archer_31
+  - first:
+      213: 646368399599237430
+    second: skeleton archer_32
+  - first:
+      213: -500684130275197322
+    second: skeleton archer_33
+  - first:
+      213: -320847185252325180
+    second: skeleton archer_34
+  - first:
+      213: -3890892639817693643
+    second: skeleton archer_35
+  - first:
+      213: -708861193612915636
+    second: skeleton archer_36
+  - first:
+      213: -5579322234586715017
+    second: skeleton archer_37
+  - first:
+      213: 3053033118883322347
+    second: skeleton archer_38
+  - first:
+      213: -7421295339769635395
+    second: skeleton archer_39
+  - first:
+      213: 2031697016246002886
+    second: skeleton archer_40
+  - first:
+      213: 866232687627603756
+    second: skeleton archer_41
+  - first:
+      213: -1149497530265306490
+    second: skeleton archer_42
+  - first:
+      213: -1680781681545057778
+    second: skeleton archer_43
+  - first:
+      213: 5978627826753159797
+    second: skeleton archer_44
+  - first:
+      213: 4682713923387268121
+    second: skeleton archer_45
+  - first:
+      213: 2779690970335595533
+    second: skeleton archer_46
+  - first:
+      213: -3118796243934889143
+    second: skeleton archer_47
+  - first:
+      213: -9122960683195744344
+    second: skeleton archer_48
+  - first:
+      213: 5617107118970930433
+    second: skeleton archer_49
+  - first:
+      213: 6809600440527903974
+    second: skeleton archer_50
+  - first:
+      213: -6558131521021038714
+    second: skeleton archer_51
+  - first:
+      213: 1022400187403045853
+    second: skeleton archer_52
+  - first:
+      213: -8985152574014393951
+    second: skeleton archer_53
+  - first:
+      213: -6236822996539464542
+    second: skeleton archer_54
+  - first:
+      213: -3737476879412428771
+    second: skeleton archer_55
+  - first:
+      213: 8733640760138563672
+    second: skeleton archer_56
+  - first:
+      213: 8246053258738295917
+    second: skeleton archer_57
+  - first:
+      213: -8141676221911676987
+    second: skeleton archer_58
+  - first:
+      213: -4993833350617446598
+    second: skeleton archer_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton archer_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfacd013618eb5439efecc5ea6645e2
+      internalID: 2529344528012073629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93cb11f40ae2c46ad9fec5bdff5bca
+      internalID: 7927566408201165972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72efd7fb074e546ad74147de60a050
+      internalID: -7485784725927380735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135def26ba0e46f48b2fa42b6e2a3a3d
+      internalID: -3510301689832958075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde75df749362664a8baa00c4d187fd2
+      internalID: 6442240369463676372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8617ee5109c5448c0fc4673e37380
+      internalID: 2958503459832166389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8ae801a9fe6b48bff9b70aa98808b
+      internalID: 5584679154801373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9120eea51f5c3ba469bbf2bbacc066b1
+      internalID: -4243757476177620678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839669b1bc777294db5670eba3a7cb23
+      internalID: 593659044394389988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 656
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d564623fb0a4274d8fb646037c8e8a2
+      internalID: 4777311595510707281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 537
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5baeeca7ad54b48b7630c0cce96e4f
+      internalID: 1606205611440371205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 538
+        width: 64
+        height: 100
+      alignment: 9
+      pivot: {x: 0.36701095, y: 0.5170227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616ce282ae71d1418826038a2a78beb
+      internalID: -1658304590841535142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 537
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cfe758d7dbac440a7f4df9524fe74e
+      internalID: 1924288779565654562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 537
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906c2609ee8dc745a4e3bc2723ad647
+      internalID: 8136616155963511843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198dbedce6591a043925a4df026d5e96
+      internalID: 7278993344293173625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5b130f8c59e149be9c0c3cd7fc99b
+      internalID: -7111157805330440490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab528d5912c04d4eba4555913c95e0a
+      internalID: 3500180763207232362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b8bf41450785478f5a7a3e5eedb95
+      internalID: -4082662101747797446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb993fb67b716db4da6ad5145d75b564
+      internalID: 7101140386141068592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_19
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 536
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb5a1a6d4945d4198fe2db5f27b8db
+      internalID: -1237166121447576544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 426
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8089986aa43e4bb743d4d7c3b5b95
+      internalID: 2221269771785786843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 429
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ca2fc19726e5498e4ac8b6d631769
+      internalID: -4733136270795443630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 429
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e9164d5002d84799715c060ce77ad
+      internalID: 3503368485497965428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 431
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1df3b2180223e4494aab305a1ee89f
+      internalID: 690896055633636038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 430
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85d330df64f0a4495e599428080c08
+      internalID: 8856958226898168651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 431
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112cc06ebb75ee04394a71372e2afe0d
+      internalID: 4473044897736878118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 428
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f70642c84d6f0348a0e6acaa458d857
+      internalID: -3915158113461991517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 434
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d0b1c70b1f0d4f8ffec4879b2dc05
+      internalID: -5641640833975292161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 416
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6560321ddb6473468a8f3cc7fde7f72
+      internalID: -7296393565306986012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_29
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 433
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f2405da377639428e1054e01446846
+      internalID: 7079702056950867538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 299
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016e036f3ce5d214a9400ec911e45857
+      internalID: -3603816548501881288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 301
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373db0717eafab47af0dd71a6157736
+      internalID: -9104723030461605064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 301
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53fc9deab7dddf43a055681e3913bab
+      internalID: 646368399599237430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 425
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eca9c22c3c5fa649beefadfa8293feb
+      internalID: -500684130275197322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 296
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cb2f25f7165a4c9fbdbe376a4b5de
+      internalID: -320847185252325180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 299
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2f7c6d1f531649956a2409033fa7e
+      internalID: -3890892639817693643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 303
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a23ec4b63bc043be2311cc8b2e4cd
+      internalID: -708861193612915636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_37
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 423
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539bc34ec3115424db43e1c073a26ea5
+      internalID: -5579322234586715017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 304
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9213032bd0c6d459b78714dcfd6dd4
+      internalID: 3053033118883322347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 307
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f1f871ea5588449a43b1c22f103a6
+      internalID: -7421295339769635395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 184
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0aa06ae571aa498cabd113dabdc0a
+      internalID: 2031697016246002886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 189
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5af74fd8a4b24dba9a24b8a57fdfb
+      internalID: 866232687627603756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 186
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369ffdefcec2ab4dbd4acf43ba4013c
+      internalID: -1149497530265306490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 423
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29ba3e8636b684c9efc51ca8433518
+      internalID: -1680781681545057778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 188
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b477dce81f41674394bf486b19e988a
+      internalID: 5978627826753159797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 186
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c56228767e77478b29685895cff5b
+      internalID: 4682713923387268121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_46
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 185
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17fd5e8f0bc624ba2e29d96193585b
+      internalID: 2779690970335595533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 429
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ffe83e06cc0a4d8fe26d443881da3
+      internalID: -3118796243934889143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_48
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 186
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c943818ef8a594085cbeab41434ee3
+      internalID: -9122960683195744344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_49
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 191
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87a388e7b8ec34c8462b2f52de90f3
+      internalID: 5617107118970930433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995aa4c1055e4d246855a73d7a4fa4ef
+      internalID: 6809600440527903974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cabaa7466f63542ba0d9418bb70fc9
+      internalID: -6558131521021038714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65a97f592152d458fba3cd5d90a319
+      internalID: 1022400187403045853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b72aa23323aa94486d90d595c685be
+      internalID: -8985152574014393951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3dea38b1306934d9d32c6271d35dd2
+      internalID: -6236822996539464542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66d3da1301cc447b4b859ee6a12a00
+      internalID: -3737476879412428771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_56
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b52d8bf75e76346ac377cc24eefffe
+      internalID: 8733640760138563672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_57
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6bc5858c0547a45b18df3f2b6d3a17
+      internalID: 8246053258738295917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9293376a0bcdb439e63d59ac35b161
+      internalID: -8141676221911676987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton archer_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 56
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7eb56bfd1533848850af38159e9f6e
+      internalID: -4993833350617446598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18f9db53e6316d44abf13686231d29ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
